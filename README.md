@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>G</strong>
+  <strong></strong>
 </p>
 
 <h1 align="center">GoldSense AI v2.1</h1>
@@ -414,11 +414,11 @@ Decision: XGBoost ensemble         -> Hardcoded MANUAL-REVIEW
 
 | Scenario | Vision | Acoustic | Decision |
 |----------|--------|----------|----------|
-| Photo + Audio + API key | ✅ Qwen2.5-VL | ✅ wav2vec2-base | ✅ XGBoost |
-| Photo + No audio | ✅ Qwen2.5-VL | 🔄 Visual inference | ✅ XGBoost |
-| No photo + No audio | 🔄 Pessimistic defaults | 🔄 Visual inference | ✅ XGBoost |
-| No API key | 🔄 Pillow analysis | 🔄 Visual inference | ✅ XGBoost |
-| No model file | 🔄 Any available | 🔄 Any available | 🔄 MANUAL-REVIEW |
+| Photo + Audio + API key |  Qwen2.5-VL |  wav2vec2-base |  XGBoost |
+| Photo + No audio |  Qwen2.5-VL |  Visual inference |  XGBoost |
+| No photo + No audio |  Pessimistic defaults |  Visual inference |  XGBoost |
+| No API key |  Pillow analysis |  Visual inference |  XGBoost |
+| No model file |  Any available |  Any available |  MANUAL-REVIEW |
 
 ---
 
