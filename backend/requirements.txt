@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+xgboost==2.0.3
+scikit-learn==1.3.2
+numpy==1.26.2
+pandas==2.1.3
+python-multipart==0.0.6
+Pillow==10.1.0
+python-dotenv==1.0.0
+httpx==0.25.2
+aiohttp==3.9.1
+# Acoustic — wav2vec2-base (local HuggingFace)
+transformers>=4.35.0
+torch>=2.0.0
+torchaudio>=2.0.0
+librosa>=0.10.0
+soundfile>=0.12.0

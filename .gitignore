@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+backend/.env
+
+# Model Files
+backend/goldsense_xgb.pkl
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+frontend/build/
