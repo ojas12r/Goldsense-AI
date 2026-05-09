@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>AI-powered gold jewelry assessment system for NBFC lending decisions</em><br/>
-  <strong>Poonawalla Fincorp AI Hackathon 2024</strong>
+  <strong>Poonawalla Fincorp AI Hackathon 2026</strong>
 </p>
 
 <p align="center">
